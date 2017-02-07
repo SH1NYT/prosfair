@@ -8,3 +8,5 @@ You need to have python-pygame installed.
 Also, you need to compile the minimax_alpha_beta.cpp to minimax in the ai folder
 
 g++ ai/minimax_alpha_beta.cpp -o ai/minimax
+
+Stop by the gitter group : https://gitter.im/OpenC-IIIT
